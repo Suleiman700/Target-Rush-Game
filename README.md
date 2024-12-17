@@ -26,7 +26,7 @@ Target Rush is an exciting arcade-style shooting game that challenges your refle
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/Target-Rush-Game.git
+   git clone https://github.com/Suleiman700/Target-Rush-Game.git
    ```
 2. Open `index.html` in your web browser
 3. Start playing!
