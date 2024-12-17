@@ -1,0 +1,9 @@
+
+@font-face {
+    font-family: APP_FONT;
+    src: url('../fonts/cairo/Cairo.ttf');
+}
+
+* {
+    font-family: APP_FONT;
+}
